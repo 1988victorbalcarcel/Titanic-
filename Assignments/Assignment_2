@@ -25,3 +25,32 @@ That is problematic not only for the internal consistency of the results but for
 
 As a lawyer, I have no much contact with issues of that kind. However, there are two ways I can incorporate the aforementioned elements to my work: (i) having in mind the principles given to search more about other tools to gain efficiency in my job in order to define which of them fit better for what I am doing -either researching or my daily work- and then mastering them; and (ii) periodically assessing the usefulness of the instruments chosen. 
 
+5.	Briefly explain what git and github are used for, how they are similar and how they are different.
+
+Git is a distributed version control software for developers that allows collaborative work, but t does not allow to see in real time what other people is doing on the same project (due to local storage of Git) whereas GitHub is a Git repository hosting service, i.e. a database that allows to keep track and share Git version control projects online. 
+
+They are similar in which there are functionalities of Git that are present in the two of them: the version control and the branching model. However, GitHub have expanded on more Git functionalities: projects can be shared with others and what they are working on can be seen in real time, and new branches form when changes are made for other people in order to prevent overwriting each other´s work provided that “push” or “pull” are not activated to incorporate them in the original work. 
+
+6.	Name a benefit of using git to organize your empirical research.  What types of common problems can occur if you don’t use git?
+
+It keeps track of what has been done and that can be useful to easily find errors or to make comparisons between different results. Therefore, it helps to diminish the probability of making a mistake and increases the chances of correctly identifying. 
+
+7.	What about using git is challenging for you for right now?  What steps can you take to minimize those challenges such that you can adopt git for this class?
+
+This is an entirely new tool for me: I have not heard about it before this class. On top of that, I have no prior important experience in coding (just some things in Stata at a beginner’s level), therefore it is a huge challenge given the length of this course (a week and a half).  
+
+The only way I can think of to minimize my lack of knowledge in the subject is searching on the web for information about it. 
+
+8.	Name the four main Git operations.  What does each operation do and how are is each operation different from one another?  
+
+A search on the web shows that are more than 4 basic operations in Git (there are 10 at least) therefore the commands listed below were selected based on the importance I assigned to them. 
+
+Git clone. It creates (locally), lists and deletes branches
+
+Git commit. It identifies the changes applied and it saves them locally. 
+
+Git push. Once the changes have been committed the command sends them to the remote repository. 
+
+Git pull. It gets the updates from the remote repository and applies the latest changes into the local one.
+
+Git revert. It undoes a commit (it will create a new one without deleting the older one) and it does not affectthe commit history. 
