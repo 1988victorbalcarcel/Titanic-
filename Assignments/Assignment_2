@@ -1,1 +1,27 @@
+Assignment 2. 
+University: Universidad del Rosario
+Subject: Causal Inference and Research Design
+Name: Víctor Andrés Balcárcel Guzmán
+
+1.	Summarize briefly the point of chapters 2- 8 in less than one page.  
+
+The immediate orientation of the 7 chapters is to present useful tools that can be used by people dedicated to empirical social science to be efficient via (i) the reduction of the probability of errors due to repetition of the same task over and over, lack of a meaningful communication between different team members, or issues when identifying the appropriate documents or changes applied to a document; (ii) the improvement of the clarity that must be incorporated into the different documents in order to make them self-sufficient as a way to allow replicability in a reasonable amount of time; and (iii) the systematic organization and classification of the information required for the replication of the data. 
+
+However, one could say that the ultimate goal of the paper is to facilitate part of the job of a person working in the field of empirical social science. In one hand, for they to dedicate time to the important matters such as the interpretation of the results. On the other, for the scientific community to have access to a set of organized documents to check the results and as such to have solid arguments to criticize or support the conclusions of the original work or to build something else having those findings and conclusions as base. 
+
+2.	Why do Genztkow and Shapiro think these elements of modern empirical work are so important?  What problems does each element solve? 
+
+Those instruments are relevant for two reasons. Frist, for their contribution to the replicability of the findings. Second, because they are useful to save time in developing activities or codes that just need to be done a few times -not constantly repeated- or to introduce clues to future selves to easily understand what have been done and what needs to be done. 
+
+That explains: (i) automation as a way to avoid the repetition of some activities or codes; (ii) version control as a tool to easily identify errors, bugs or data in different previous stages of the process  of processing data; (iii) directories as an element to systematically organized information which the researcher or their team can work from; (iv) keys as an instrument to successfully identify different tables to array them and then normalized them; (v) abstraction as a medium of reducing redundancy and to gain clarity; (vi) documentation as an instrument to give clarity without incur in comments that are not needed because the issue, or possible inconvenience, could be solve from the code itself; and (viii) management as a way to make communication between team members effective in order to diminish ambiguity about responsibilities and goals assigned to individuals or to the entire group. 
+
+3.	Give an example of the sort of problem that could arise in the course of an empirical project if someone were to fail to adopt these principles.
+
+As stated by the authors various problems could arise. One of them could be the lack of clarity in the comments to merge different information to build a database from which run a regression. It could be the case that the different bases merge in different ways, however the project at hand requires a specific one. If that is not clear from the beginning and during the entire process the many participants could arrive to different results depending on the way they merge the data. 
+
+That is problematic not only for the internal consistency of the results but for the replication of them and the conclusions they support. 
+
+4.	How do you plan to incorporate these solutions into your own work?
+
+As a lawyer, I have no much contact with issues of that kind. However, there are two ways I can incorporate the aforementioned elements to my work: (i) having in mind the principles given to search more about other tools to gain efficiency in my job in order to define which of them fit better for what I am doing -either researching or my daily work- and then mastering them; and (ii) periodically assessing the usefulness of the instruments chosen. 
 
